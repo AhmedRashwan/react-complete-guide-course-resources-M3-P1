@@ -2,6 +2,7 @@
   "name": "react-essentials-start",
   "version": "0.0.0",
   "type": "module",
+  "homePage": "https://ahmedrashwan.github.io/react-complete-guide-course-resources-M3-P1/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
